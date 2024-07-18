@@ -210,4 +210,4 @@
   * [Подкожный тест (Subcutaneous test)](avtomatizaciya-beta/podkozhnyi-test-subcutaneous-test.md)
   * [Разница между coupling и cohesion](avtomatizaciya-beta/raznica-mezhdu-coupling-i-cohesion.md)
   * [Другое (ссылки)](avtomatizaciya-beta/drugoe-ssylki.md)
-* [Контакты](kontakty.md)
+
